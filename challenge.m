@@ -1,5 +1,6 @@
 function challenge(recordName,alarm_type)
 % Changed by Qiao
+% 11/19/2014
 % challenge(recordName)
 %
 % Sample entry for the 2015 PhysioNet/CinC Challenge.
