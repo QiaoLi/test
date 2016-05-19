@@ -38,7 +38,7 @@ function challenge(recordList)
 % Written by Qiao Li, November 10, 2014.
 % Last Modified: November 19, 2014
 %
-%
+% Test for Github 
 %
 % %Example using training data- 
 % challenge('Records')
